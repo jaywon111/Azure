@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaywon111.github.io/azure-horizon/sitemap.xml
